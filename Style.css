@@ -7,7 +7,7 @@ body{
 }
 
 .container-fluid{  
-  background-image: url('C:/PortFolio Website/assets/png tech.jpg') ;
+  background-image: url('assets/png tech.jpg') ;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
